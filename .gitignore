@@ -1,0 +1,5 @@
+node_modules/
+.next/
+data/customers.db
+data/customers.db-shm
+data/customers.db-wal
